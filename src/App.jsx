@@ -19,6 +19,7 @@ function App() {
 
   return (
     <>
+      <h1>Top 40 actors of XX century:</h1>
       <ul>
         {cast.map((actor) => (<li key={actor.id}> <Card person={actor} /> </li>))}
       </ul>
