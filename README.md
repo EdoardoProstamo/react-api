@@ -21,7 +21,6 @@
    - biografia
    - immagine
    - riconoscimenti
-   - immagine
 
 ### MILESTONE 3:
 - Mostrare in pagina una card per ciascun attore, con grafica a piacimento!
